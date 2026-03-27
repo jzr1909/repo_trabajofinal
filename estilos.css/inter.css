@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333333; 
+    color: white;
+    padding: 15px 30px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.ejercicio-tag {
+    background-color: #FF0033; 
+    color: white;
+    padding: 5px 20px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+main {
+    padding: 50px;
+    background-color: white;
+}
+
+.contenedor-gris {
+    background-color: #808080; 
+    border: 2px solid black;   
+    padding: 15px;            
+    width: 80%;                
+}
+h2 {
+    margin-top: 0;
+    font-size: 24px;
+}
+
+p {
+    margin-bottom: 0;
+    line-height: 1.4;
+}
