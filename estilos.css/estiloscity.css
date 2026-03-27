@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eef2f7; /* Un gris-azulado muy pálido */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: #6cabdd; /* El icónico Sky Blue del City */
+    padding: 25px;
+    text-align: left;
+    border-bottom: 5px solid #1c2c5b; 
+}
+
+#inicio {
+    background-color: #1c2c5b; 
+    padding: 10px 25px;
+    border-radius: 30px; 
+    color: #ffffff; 
+    font-weight: bold;
+    font-size: 16px;
+    display: inline-block;
+    margin: 10px;
+    text-transform: capitalize;
+    transition: 0.3s;
+}
+
+#inicio:hover {
+    background-color: #ffffff;
+    color: #6cabdd;
+    cursor: pointer;
+}
+
+#linea {
+    color: #1c2c5b; 
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    margin-left: 15px;
+}
+
+#cuerpo {
+    background-color: #ffffff;
+    padding: 40px;
+    color: #1c2c5b;
+    max-width: 800px;
+    margin: 30px auto;
+    border-radius: 20px;
+    text-align: center;
+}
+
+img {
+    width: 170px;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+h1 {
+    color: #6cabdd; /* Título en celeste */
+    font-size: 2.8em;
+    font-weight: 800;
+}
+
+p {
+    line-height: 1.7;
+    color: #555;
+    font-size: 16px;
+}
