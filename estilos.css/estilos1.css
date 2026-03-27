@@ -1,12 +1,20 @@
 .header {
-    background-color: blue;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: white;
+    background-color: rgb(53, 127, 211); 
+    padding: 25px;
     text-align: left;
-    font-size: 20px;
-    padding: 15px;
+    border-bottom: 5px solid #272a2d; 
 }
 
+#inicio {
+    background-color: #000000; 
+    padding: 10px 20px;
+    border-radius: 50px;
+    color: #ffff; 
+    font-family: 'Verdana', sans-serif;
+    font-size: 18px;
+    display: inline-block; 
+    margin: 10px;
+}
 
 
 .banner {
